@@ -11,5 +11,6 @@ A Multi-Layer Perceptron for predicting the result of a non-linear function.
 
 ### Deep Dream
 
-Google's Deep Dream Algorithm: https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb
+Google's Deep Dream Algorithm via: https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb
 
+Code outputs a deep dream image given an image n 
